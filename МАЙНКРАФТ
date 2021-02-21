@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>Games Minecraft</title>
+    </head>
+<body>
+<header style="background-color:lightblue;color:black">
+            <img src="https://iceforge.ru/wp-content/uploads/2020/07/4389.2000x0.jpg" height="50px" id="start">
+            <a href="#games" style="color:black; font-size:20px;">Какие игры мы делаем?</a>
+            <a href="#price" style="color:black; font-size:20px;">Прайс-лист</a>
+        </header>
+        <main>
+            <h1 style="text-align:center;font-size:50px;">Games Lab</h1>
+            <h2 style="text-align:center;font-size:40px;">Студия разработки игр</h2>
+            <img src="https://im0-tub-ru.yandex.net/i?id=33e70d5ea0c9148795ed8dc69448374f&ref=rim&n=33&w=267&h=150" width="1500px">
+            <h2 id="games">Мы создаем самые лутчие и креативные рижымы где вы можете поиграть с друзьями</h2>
+            <p>Хотите сделать свой сервер переходите на наш офециальный сайт и создайте сервер с привелегиями 
+                <br>Надоело играть одному специально мы создали в самой игре списки серверов
+                <br>У нас можно заказать на создание серверов. 
+                <br>Мы создаем сервера по типу:ROLE PLAY,GTA V,Bed Wars,Sky Wars и много других серверов.
+                <br>Нас снимают очень известные видео-блогеры и кажный делает свой видео ролик все лутче при помощи модов.
+            </p>
+            <p>
+                <img src="https://im0-tub-ru.yandex.net/i?id=44c1dbfb2faf1c877ba63ee50432b58b&ref=rim&n=33&w=267&h=150" width="200px">
+                <img src="https://im0-tub-ru.yandex.net/i?id=b8b9629cfc13f6212fa6875c46711cac&ref=rim&n=33&w=267&h=150" width="200px">
+                <img src="https://im0-tub-ru.yandex.net/i?id=49cfcb6d44b862ac00bcfbb79eec9c79&ref=rim&n=33&w=267&h=150" width="200px">
+            </p>
+            <h2>Создание серверов</h2>
+            <p>Создание игры — это всегда командная работа из нескольких этапов: 
+                <br>Создание серверов-это сложное дело сначало мы должны создать айпи сервера.Потом мы должны придумать тему и выложить в интернет
+                <br>Над нашей работай работают:дезайнер,проектор,строитель,мега-мозг
+            </p>
+            <p>
+                <img src="https://im0-tub-ru.yandex.net/i?id=819ab04b5e15b695024e27459a4d00fe&ref=rim&n=33&w=283&h=150" width="200px">
+                <img src="https://im0-tub-ru.yandex.net/i?id=8f015c0be15a62504e5a228a93a5230b&ref=rim&n=33&w=267&h=150" width="200px">
+                <img src="https://im0-tub-ru.yandex.net/i?id=765cc3c01f203eac2392a5549a8ac4e8&ref=rim&n=33&w=279&h=150" width="200px">
+            </p>
+            <h2 id="price">Наше предложение</h2>
+            <table style="border-collapse:collapse;border:1px solid green;">
+                <tbody><tr style="border:1px solid green;background-color:palegreen;">
+                    <td>Вид работы</td>
+                    <td>Подробности</td>
+                    <td>Цена</td>
+                </tr>
+                <tr style="border:1px solid green;">
+                    <td style="background-color:palegreen;">Портирование</td>
+                    <td>Destop, Android, iOS</td>
+                    <td>от 50 тыс. руб.</td></tr>
+                
+                <tr style="border:1px solid green;">
+                    <td style="background-color:palegreen;">Локализация</td>
+                    <td>Перевод: тексты, <br>голоса, графика</td>
+                    <td>от 50 тыс. руб.</td>
+                </tr>
+            <tr style="border:1px solid green;">
+                <td style="background-color:palegreen;">Создание <br>контента</td>
+                <td>Звук, музыка, <br>графика 3D, 2D</td>
+                <td>от 50 руб./час</td>
+            </tr>
+            <tr style="border:1px solid green;">
+                <td style="background-color:palegreen;">Игра под ключ</td>
+                <td>Обсуждение сюжета <br>со сценаристом</td>
+                <td>Договорная</td>
+            </tr>
+            </tbody></table>
+            <h2>Популярность продукта</h2>
+            <p>В наши игры играют очень известные люди и они всегда проходят мини игры </p>
+            <img src="https://im0-tub-ru.yandex.net/i?id=3cd223e9d58f4188d1e2ae501fb4769f&ref=rim&n=33&w=267&h=150" width="1500px">
+        </main>
+        <footer style="background-color:lightblue; color:black">
+            <a href="#start" style="color:black;font-size:20px">В начало страницы</a>
+            <p style="font-size:15px"> Адрес: город Архангельск, ул.Табуретковая, 15.</p>
+            <p>Сотрудничество с нами:Micrasoft@mail.com Тел.:586-437</p>
+        </footer>
+</body>
+</html>
